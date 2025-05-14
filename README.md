@@ -1,12 +1,31 @@
-- 👋 Hi, I’m @jdhnsu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# jdhnsu 的 GitHub 主页
 
-<!---
-jdhnsu/jdhnsu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👋 你好，我是 jdhnsu！
+
+我是一个热爱编程的开发者，同时也对乒乓球充满热情。虽然我不太热爱运动，但乒乓球是我的例外，它不仅是一项运动，更是一种乐趣[^1^]。
+
+## 💻 技能
+
+- **熟练掌握**：C 语言
+- **正在学习**：C++、Python
+- **感兴趣领域**：Web 技术[^1^]
+
+## 🌱 我正在学习
+
+目前，我正在努力完善我的 [数据结构与算法仓库](https://github.com/jdhnsu/C_DS_Algo)。这个项目还处于发展阶段，但我相信通过不断学习和实践，它会变得越来越好[^1^]。
+
+## 🤝 寻找合作
+
+如果你也对数据结构与算法感兴趣，或者想一起探讨编程的乐趣，欢迎随时联系我！我们可以一起学习、一起进步[^1^]。
+
+## 📚 我的项目
+
+- **数据结构与算法仓库**：一个正在完善的算法学习项目[^1^]。
+- **其他项目**：我还在不断探索和尝试新的项目，希望能在 GitHub 上留下更多足迹[^1^]。
+
+## 📫 联系我
+
+- GitHub：@jdhnsu
+- 邮箱：[Education mailbox](24016020834@stu.nsu.edu.cn)
+
+期待与你交流！
