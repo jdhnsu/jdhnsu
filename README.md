@@ -26,6 +26,6 @@
 ## 📫 联系我
 
 - GitHub：@jdhnsu
-- 邮箱：[Education mailbox](24016020834@stu.nsu.edu.cn)
+- 邮箱：[24016020834@stu.nsu.edu.cn](24016020834@stu.nsu.edu.cn)
 
 期待与你交流！
