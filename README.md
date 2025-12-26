@@ -116,13 +116,13 @@
 </div>
 
 ---
-<div align="center">
+<!-- <div align="center">
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jdhnsu&theme=tokyonight&locale=zh_Hans)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jdhnsu&theme=tokyonight&locale=zh_Hans" alt="GitHub Streak" /></a>
 
 
-</div>
+</div> -->
 
 <div align="center">
   <i>“任何事，必先利其器”</i> - 个人主页持续更新中...
