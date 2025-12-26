@@ -112,13 +112,11 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-jdhuan@jdhuan.top-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jdhuan@jdhuan.top)
-[![GitHub](https://img.shields.io/badge/GitHub-jdhnsu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jdhnsu)
 
 </div>
 
 ---
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jdhnsu&theme=github_dark)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=jdhnsu&theme=tokyonight&locale=zh_Hans)](https://git.io/streak-stats)
 
 <div align="center">
   <i>“任何事，必先利其器”</i> - 个人主页持续更新中...
