@@ -117,12 +117,8 @@
 </div>
 
 ---
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jdhnsu&theme=github_dark)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jdhnsu&theme=github_dark" alt="GitHub Streak" />
-</div>
-
----
 
 <div align="center">
   <i>“任何事，必先利其器”</i> - 个人主页持续更新中...
