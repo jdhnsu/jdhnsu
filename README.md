@@ -64,7 +64,7 @@
 | 图像处理技术 | 5% |
 
 <!-- 更直观的进度条形式 -->
-<div>
+<!-- <div>
   <div>人工智能基础理论</div>
   <div style="width: 100%; background-color: #eee; border-radius: 5px;">
     <div style="width: 20%; height: 10px; background-color: #3796D3; border-radius: 5px;"></div>
@@ -94,7 +94,7 @@
     <div style="width: 5%; height: 10px; background-color: #3796D3; border-radius: 5px;"></div>
   </div>
   <div style="margin-bottom: 15px;">5%</div>
-</div>
+</div> -->
 
 ---
 
